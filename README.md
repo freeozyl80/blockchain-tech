@@ -35,3 +35,8 @@ Solana - 高性能（65k TPS），适合 DeFi 和游戏，生态活跃
 Sei v2 - 并行化 EVM，交易速度极快
 Berachain- 基于 Cosmos + PoL（Proof of Liquidity）新经济模型
 Monad - 完全兼容 EVM，目标 10k+ TPS
+
+## 方向：
+
+1. RWA
+2. AI + blockChain
